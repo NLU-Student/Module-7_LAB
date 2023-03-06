@@ -50,9 +50,6 @@ print("\n\nProblem 5: ")
 import turtle
 #function to draw squar with specified value
 
-import turtle
-#function to draw squar with specified value
-
         
 wn = turtle.Screen()
 
